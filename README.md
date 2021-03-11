@@ -18,4 +18,4 @@ getStaticPaths
 
 
 ## Deploy on Vercel
-https://react-nextjs-json-server-blog-j7xnfi670-bezerrarodrigo.vercel.app/
+https://react-nextjs-json-server-blog.vercel.app/
